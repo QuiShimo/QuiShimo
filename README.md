@@ -1,6 +1,7 @@
 # Hey there! :smiley_cat:
 ---
 ### :raising_hand_man: About me:
+
 I am a begginer C# developer from Russia
 - :microscope: Exploring ASP.NET Framework
 - :boomerang: In my free time, I solve problems on LeetCode and read tech articles.
@@ -8,7 +9,6 @@ I am a begginer C# developer from Russia
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotNet" alt="dotNet" width="40" height="40"/>&nbsp;
@@ -20,8 +20,19 @@ I am a begginer C# developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
 </div>
 
-### :fire: My Stats:
+--- 
+### :fire: My Profiles:
+<div id="badges">
+  <a href="https://stackoverflow.com/users/18980725/quishimo">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/18980725/quishimo">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode badge"/>
+  </a>
 
-<a href="https://github.com/QuiShimo/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=QuiShimo" width="350"/>
-</a>
+
+
+### :trophy: My Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuiShimo)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiShimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
