@@ -7,7 +7,7 @@ I am a begginer C# developer from Russia
 - [:mailbox:	How to reach me](mailto:m.a.bondarenko@outlook.com)
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
@@ -20,3 +20,8 @@ I am a begginer C# developer from Russia
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  
 </div>
 
+### :fire: My Stats:
+
+<a href="https://github.com/QuiShimo/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=QuiShimo" width="350"/>
+</a>
