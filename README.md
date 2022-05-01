@@ -23,14 +23,19 @@ I am a begginer C# developer from Russia
 --- 
 ### :fire: My Profiles:
 <div id="badges">
+    <a href="https://leetcode.com/QuiShimo/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode badge"/>
+  </a>
+  <a href="https://qna.habr.com/user/QuiShimo">
+    <img src="https://github.com/QuiShimo/QuiShimo/blob/main/HabrIcon.svg" alt="Habr Q&A badge"/>
+  </a>
+  <br>
   <a href="https://stackoverflow.com/users/18980725/quishimo">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow badge"/>
   </a>
-  <br>
-  <a href="https://leetcode.com/QuiShimo/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode badge"/>
-  </a>
-  
+</div>
+
+
 
 ### :trophy: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuiShimo)](https://git.io/streak-stats)
