@@ -26,6 +26,7 @@ I am a begginer C# developer from Russia
     <a href="https://leetcode.com/QuiShimo/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode badge"/>
   </a>
+  <br>
   <a href="https://qna.habr.com/user/QuiShimo">
     <img src="https://github.com/QuiShimo/QuiShimo/blob/main/habrq%26a_icon.svg" alt="Habr Q&A badge"/>
   </a>
