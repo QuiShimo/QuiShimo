@@ -27,6 +27,9 @@ I am a begginer C# developer from Russia
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode badge"/>
   </a>
   <br>
+    <a href="https://www.codewars.com/users/QuiShimo">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars badge"/>
+  </a>
   <a href="https://qna.habr.com/user/QuiShimo">
     <img src="https://github.com/QuiShimo/QuiShimo/blob/main/habrq%26a_icon.svg" alt="Habr Q&A badge"/>
   </a>
@@ -34,6 +37,7 @@ I am a begginer C# developer from Russia
   <a href="https://stackoverflow.com/users/18980725/quishimo">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow badge"/>
   </a>
+  
 </div>
 
 
