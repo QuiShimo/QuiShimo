@@ -35,9 +35,3 @@ I am a begginer Python developer from Russia
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow badge"/>
   </a>
 </div>
-
-
-
-### :trophy: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuiShimo)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuiShimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
